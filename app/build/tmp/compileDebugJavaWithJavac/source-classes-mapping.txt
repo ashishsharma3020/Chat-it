@@ -1,0 +1,104 @@
+com/example/whatsappclone/BuildConfig.java
+ com.example.whatsappclone.BuildConfig
+com/example/whatsappclone/Adapters/ChatAdapter.java
+ com.example.whatsappclone.Adapters.ChatAdapter
+ com.example.whatsappclone.Adapters.ChatAdapter$1
+ com.example.whatsappclone.Adapters.ChatAdapter$1$1
+ com.example.whatsappclone.Adapters.ChatAdapter$1$2
+ com.example.whatsappclone.Adapters.ChatAdapter$RecieverViewHolder
+ com.example.whatsappclone.Adapters.ChatAdapter$SenderViewHolder
+com/example/whatsappclone/Models/MessageModel.java
+ com.example.whatsappclone.Models.MessageModel
+com/example/whatsappclone/Fragments/StatusFragment.java
+ com.example.whatsappclone.Fragments.StatusFragment
+com/example/whatsappclone/OtpActivity.java
+ com.example.whatsappclone.OtpActivity
+ com.example.whatsappclone.OtpActivity$1
+ com.example.whatsappclone.OtpActivity$2
+ com.example.whatsappclone.OtpActivity$3
+ com.example.whatsappclone.OtpActivity$GenericKeyEvent
+ com.example.whatsappclone.OtpActivity$GenericTextWatcher
+com/example/whatsappclone/Fragments/CallsFragment.java
+ com.example.whatsappclone.Fragments.CallsFragment
+com/example/whatsappclone/PhoneActivity.java
+ com.example.whatsappclone.PhoneActivity
+ com.example.whatsappclone.PhoneActivity$1
+com/example/whatsappclone/Adapters/FragmentsAdapter.java
+ com.example.whatsappclone.Adapters.FragmentsAdapter
+com/example/whatsappclone/Models/Users.java
+ com.example.whatsappclone.Models.Users
+com/example/whatsappclone/Fragments/ChatsFragment.java
+ com.example.whatsappclone.Fragments.ChatsFragment
+ com.example.whatsappclone.Fragments.ChatsFragment$1
+com/example/whatsappclone/Adapters/UsersAdapter.java
+ com.example.whatsappclone.Adapters.UsersAdapter
+ com.example.whatsappclone.Adapters.UsersAdapter$1
+ com.example.whatsappclone.Adapters.UsersAdapter$2
+ com.example.whatsappclone.Adapters.UsersAdapter$ViewHolder
+com/example/whatsappclone/MainActivity.java
+ com.example.whatsappclone.MainActivity
+ com.example.whatsappclone.MainActivity$1
+ com.example.whatsappclone.MainActivity$2
+ com.example.whatsappclone.MainActivity$3
+ com.example.whatsappclone.MainActivity$3$1
+ com.example.whatsappclone.MainActivity$3$2
+ com.example.whatsappclone.MainActivity$3$2$1
+ com.example.whatsappclone.MainActivity$3$2$1$1
+ com.example.whatsappclone.MainActivity$3$2$1$1$1
+ com.example.whatsappclone.MainActivity$3$2$2
+ com.example.whatsappclone.MainActivity$3$2$2$1
+ com.example.whatsappclone.MainActivity$3$2$2$1$1
+ com.example.whatsappclone.MainActivity$4
+com/example/whatsappclone/ChatDetailActivity.java
+ com.example.whatsappclone.ChatDetailActivity
+ com.example.whatsappclone.ChatDetailActivity$1
+ com.example.whatsappclone.ChatDetailActivity$2
+ com.example.whatsappclone.ChatDetailActivity$2$1
+ com.example.whatsappclone.ChatDetailActivity$2$2
+ com.example.whatsappclone.ChatDetailActivity$3
+ com.example.whatsappclone.ChatDetailActivity$4
+ com.example.whatsappclone.ChatDetailActivity$4$1
+ com.example.whatsappclone.ChatDetailActivity$4$2
+com/example/whatsappclone/PhoneRegisterActivity.java
+ com.example.whatsappclone.PhoneRegisterActivity
+ com.example.whatsappclone.PhoneRegisterActivity$1
+com/example/whatsappclone/SettingsActivity.java
+ com.example.whatsappclone.SettingsActivity
+ com.example.whatsappclone.SettingsActivity$1
+ com.example.whatsappclone.SettingsActivity$2
+ com.example.whatsappclone.SettingsActivity$3
+ com.example.whatsappclone.SettingsActivity$4
+ com.example.whatsappclone.SettingsActivity$5
+ com.example.whatsappclone.SettingsActivity$5$1
+ com.example.whatsappclone.SettingsActivity$5$2
+ com.example.whatsappclone.SettingsActivity$5$2$1
+ com.example.whatsappclone.SettingsActivity$5$2$1$1
+ com.example.whatsappclone.SettingsActivity$6
+ com.example.whatsappclone.SettingsActivity$7
+com/example/whatsappclone/SignUpActivity.java
+ com.example.whatsappclone.SignUpActivity
+ com.example.whatsappclone.SignUpActivity$1
+ com.example.whatsappclone.SignUpActivity$2
+ com.example.whatsappclone.SignUpActivity$3
+ com.example.whatsappclone.SignUpActivity$4
+ com.example.whatsappclone.SignUpActivity$4$1
+ com.example.whatsappclone.SignUpActivity$5
+ com.example.whatsappclone.SignUpActivity$6
+com/example/whatsappclone/SignInActivity.java
+ com.example.whatsappclone.SignInActivity
+ com.example.whatsappclone.SignInActivity$1
+ com.example.whatsappclone.SignInActivity$2
+ com.example.whatsappclone.SignInActivity$2$1
+ com.example.whatsappclone.SignInActivity$3
+ com.example.whatsappclone.SignInActivity$4
+ com.example.whatsappclone.SignInActivity$5
+ com.example.whatsappclone.SignInActivity$6
+com/example/whatsappclone/GroupChatActivity.java
+ com.example.whatsappclone.GroupChatActivity
+ com.example.whatsappclone.GroupChatActivity$1
+ com.example.whatsappclone.GroupChatActivity$2
+ com.example.whatsappclone.GroupChatActivity$2$1
+ com.example.whatsappclone.GroupChatActivity$2$2
+ com.example.whatsappclone.GroupChatActivity$3
+ com.example.whatsappclone.GroupChatActivity$4
+ com.example.whatsappclone.GroupChatActivity$4$1
